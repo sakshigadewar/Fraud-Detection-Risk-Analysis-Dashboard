@@ -86,7 +86,8 @@ Medium
 Low
 
 ---
-# Key-insights
+## Key-insights
+
 Certain payment methods show higher fraud cases
 Some countries contribute more to fraud transactions
 Fraud activity varies across months
