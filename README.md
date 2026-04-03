@@ -25,9 +25,9 @@ This project helped me improve my data analysis skills, understand real-world pr
 - [Author](#author)
 
   ---
-  ## Project Overview
-  I created a Fraud Detection & Risk Analysis Dashboard using Excel to understand transaction patterns and identify potential fraud cases. The dashboard helps in analyzing data based on different factors like country, payment method, and customer behavior.
+  ## 📊 Project Overview
 
+I created a Fraud Detection & Risk Analysis Dashboard using Excel to understand transaction patterns and identify potential fraud cases. The dashboard helps in analyzing data based on different factors like country, payment method, and customer behavior.
   ---
    ## Dataset
   
