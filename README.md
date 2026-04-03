@@ -1,5 +1,12 @@
 # Fraud-Detection-Risk-Analysis-Dashboard
-Analyzed transaction data to identify fraud patterns and customer risk using Pivot Tables and dashboards. Built a risk scoring model to classify users into different risk categories and generated insights based on payment methods, geography, and time trends.
+
+I created a Fraud Detection & Risk Analysis Dashboard using Excel to understand how fraudulent transactions happen and how risk can be identified from data. In this project, I worked with transaction data and analyzed different factors like payment methods, countries, customer behavior, and time patterns.
+
+I used Pivot Tables, charts, and slicers to build an interactive dashboard that shows key metrics such as total transactions, fraud rate, fraud amount, and average risk score. I also created a simple risk scoring logic to classify customers into different risk categories like low, medium, high, and critical.
+
+Through this project, I was able to identify patterns like which payment methods have more fraud, which countries contribute the most, and how fraud changes over time. I also listed high-risk customers based on their transaction behavior.
+
+This project helped me improve my data analysis skills, understand real-world problem solving, and present insights in a clear and structured way using Excel.
 ---
 ## 📑 Table of Contents
 
@@ -22,8 +29,9 @@ Analyzed transaction data to identify fraud patterns and customer risk using Piv
   I created a Fraud Detection & Risk Analysis Dashboard using Excel to understand transaction patterns and identify potential fraud cases. The dashboard helps in analyzing data based on different factors like country, payment method, and customer behavior.
 
   ---
-  ## Dataset
-  The dataset includes transaction-level data with the following fields:
+   ## Dataset
+  
+The dataset includes transaction-level data with the following fields:
 Transaction_ID
 Customer_ID
 Date & Month
